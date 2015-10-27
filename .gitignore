@@ -1,5 +1,8 @@
 *.pydevproject
 .metadata
+.ydchelp
+.config
+.launches
 .gradle
 bin/
 tmp/
@@ -8,7 +11,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
 .loadpath
 
 # Eclipse Core
